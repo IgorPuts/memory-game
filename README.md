@@ -8,7 +8,7 @@ Developed as part of the [RS School 2026Q3](https://github.com/rolling-scopes-sc
 
 ## 🌐 Демо
 
-### **[Live Demo](https://your-deploy-url)**
+### **[Live Demo](https://igorputs.github.io/memory-game/)**
 
 
 ## 📖 Описание игры
