@@ -112,4 +112,4 @@ git checkout memory-game
 
 ## Автор
 
-- GitHub: [@igorPuts](https://github.com/IgorPuts).
+- GitHub: [@igorPuts] (https://github.com/IgorPuts).
