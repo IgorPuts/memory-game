@@ -81,7 +81,7 @@ HTTP-сервер. Открытие `index.html` двойным кликом (п
 **1. Клонируй репозиторий и переключись на рабочую ветку:**
 
 ```bash
-git clone https://github.com/SkorbezhArtem/memory-game.git
+git clone https://github.com/IgorPuts/memory-game.git
 cd memory-game
 git checkout memory-game
 ```
